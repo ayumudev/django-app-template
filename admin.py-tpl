@@ -1,0 +1,5 @@
+from django.contrib import admin
+
+# Register your models here.
+# https://django-extensions.readthedocs.io/en/latest/admin_generator.html
+# python manage.py admin_generator {{ app_name }}
